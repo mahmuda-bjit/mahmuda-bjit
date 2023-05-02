@@ -30,9 +30,9 @@ I’m currently expanding **my skillset by learning various technologies includi
 
 ## 💻 Work Experience
 - Trainee Software Engineer- DevOps and Cloud at BJIT April 2023 - Ongoing 
-- SRE Intern at Zuu.co.jp December 2022-February 2023 Responsible for projects related to automation 
+- SRE at Zuu.co.jp December 2022-February 2023 Responsible for projects related to automation 
 - Japanese Language and Technical Training at Venturas May 2022-November 2022 
-- Data Analyst at Sheba.xyz February 2022-April 2022 
+- Data Analyst Intern at Sheba.xyz February 2022-April 2022 
 - Virtual Intern at Banglalink August 2021 – October Responsible for data analysis and visualization.
 
 ## 🎓 Education
